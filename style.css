@@ -13,9 +13,6 @@ body{
     padding: 10px;
     box-sizing: border-box;
 }
-.para-gray{
-
-}
 .orange{
     color: #FF5400;
 }
@@ -29,10 +26,7 @@ body{
     padding: 10px;
     box-sizing: border-box;
 }
-.para-primary{
-    color: rgba(19, 19, 24, 0.70);
-    line-height: 26px;
-}
+/*Header Related Style*/
 .hamburg{
     visibility: hidden;
 }
@@ -89,15 +83,12 @@ nav li a{
     margin-top: 100px;
     text-align: center;
 }
-.destination{
-
-}
 .row{
     display: flex;
     gap: 5px;
     margin-top: 5px;
-
 }
+/*Why Choose Section*/
 .why-choose-title{
     margin-top: 100px;
     text-align: center;
@@ -130,6 +121,7 @@ nav li a{
     background: rgba(233, 68, 68, 0.05);
     padding: 20px;
 }
+/*Payment Section*/
 .payment{
     margin-top: 100px;
 }
@@ -198,12 +190,7 @@ nav li a{
     bottom: 172px;
     left: 340px;
 }
-.foot h5{
-
-}
-.foot h3{
-    
-}
+/*Footer Section*/
 .foot-head{
     display: flex;
     align-items: center;
